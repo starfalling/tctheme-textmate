@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>"selection-style": "${1|none,disclosure-indicator,detail-disclosure-button,checkmark|}"${2:,
+}
+</string>
+	<key>name</key>
+	<string>UITableViewCellAccessoryType</string>
+	<key>tabTrigger</key>
+	<string>at</string>
+	<key>uuid</key>
+	<string>D983D1A5-0AF8-44C3-93E4-28DA68E18220</string>
+</dict>
+</plist>

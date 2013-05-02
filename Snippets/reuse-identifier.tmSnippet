@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>"reuse-identifier": "${1}",
+</string>
+	<key>name</key>
+	<string>reuse-identifier</string>
+	<key>tabTrigger</key>
+	<string>ri</string>
+	<key>uuid</key>
+	<string>F3CDD8A2-4A13-4079-8D23-407DA7B7EC77</string>
+</dict>
+</plist>

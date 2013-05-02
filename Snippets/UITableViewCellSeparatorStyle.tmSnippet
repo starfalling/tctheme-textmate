@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>"separator-style": "${1|none,single-line,single-line-etched|}"${2:,
+}
+</string>
+	<key>name</key>
+	<string>UITableViewCellSeparatorStyle</string>
+	<key>tabTrigger</key>
+	<string>ss</string>
+	<key>uuid</key>
+	<string>DAC78FF2-AA45-4A2D-B3C1-5CAA85E3D056</string>
+</dict>
+</plist>

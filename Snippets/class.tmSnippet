@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>"class": "${1|UIView,UILabel,UIButton,UITextView,UITableViewCell|}",
+</string>
+	<key>name</key>
+	<string>class</string>
+	<key>tabTrigger</key>
+	<string>c</string>
+	<key>uuid</key>
+	<string>442D6778-F516-4B36-A0D0-6C1C75F436E8</string>
+</dict>
+</plist>

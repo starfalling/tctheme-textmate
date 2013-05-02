@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>"selection-style": "${1|none,blue,gray|}"${2:,
+}</string>
+	<key>name</key>
+	<string>UITableViewCellSelectionStyle</string>
+	<key>tabTrigger</key>
+	<string>ss</string>
+	<key>uuid</key>
+	<string>68D66DC1-E3B0-4E23-A9B6-905CC0919359</string>
+</dict>
+</plist>
